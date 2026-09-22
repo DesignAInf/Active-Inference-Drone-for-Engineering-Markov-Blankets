@@ -1,0 +1,62 @@
+\contentsline {section}{\numberline {1}Introduction}{4}{section.1}%
+\contentsline {section}{\numberline {2}FEP, Active Inference, and Design}{5}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Variational free energy}{5}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Markov blankets and paths}{6}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}From inference to design theory}{6}{subsection.2.3}%
+\contentsline {section}{\numberline {3}Inversion as the Design of a Boundary}{6}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Detection, tracking, and constitution}{6}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}The narrow thesis tested here}{7}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Why this is specifically Possati's inversion}{7}{subsection.3.3}%
+\contentsline {part}{I\hspace {1em}Individual Boundary Design}{8}{part.1}%
+\contentsline {section}{\numberline {4}Complete Mathematical Model}{8}{section.4}%
+\contentsline {subsection}{\numberline {4.1}State space and four-role partitions}{8}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Physical causal organization}{8}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}A computable path-space gap}{9}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Constitutive interventions}{9}{subsection.4.4}%
+\contentsline {subsection}{\numberline {4.5}Learned dynamics and structural posterior}{9}{subsection.4.5}%
+\contentsline {subsection}{\numberline {4.6}Learned intervention model}{9}{subsection.4.6}%
+\contentsline {subsection}{\numberline {4.7}Precision and viability}{10}{subsection.4.7}%
+\contentsline {subsection}{\numberline {4.8}Joint expected-free-energy policy}{10}{subsection.4.8}%
+\contentsline {section}{\numberline {5}Experimental Design}{10}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Three discriminating tasks}{10}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Conditions}{11}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}Frozen protocol and outcomes}{11}{subsection.5.3}%
+\contentsline {section}{\numberline {6}Results}{11}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Primary constitutive test}{11}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}Construct, stabilize, transform}{12}{subsection.6.2}%
+\contentsline {subsection}{\numberline {6.3}Complete role inference}{12}{subsection.6.3}%
+\contentsline {subsection}{\numberline {6.4}Architecture and viability}{12}{subsection.6.4}%
+\contentsline {subsection}{\numberline {6.5}Ablations and process diagnostics}{12}{subsection.6.5}%
+\contentsline {part}{II\hspace {1em}Collective Boundary Design}{17}{part.2}%
+\contentsline {section}{\numberline {7}From Coordination to Operational Individuation}{17}{section.7}%
+\contentsline {section}{\numberline {8}Collective Mathematical Model}{17}{section.8}%
+\contentsline {subsection}{\numberline {8.1}Distributed states and candidate partitions}{17}{subsection.8.1}%
+\contentsline {subsection}{\numberline {8.2}A group-level causal organization}{18}{subsection.8.2}%
+\contentsline {subsection}{\numberline {8.3}Bilateral constitution}{18}{subsection.8.3}%
+\contentsline {subsection}{\numberline {8.4}Shared payload and formation dynamics}{19}{subsection.8.4}%
+\contentsline {subsection}{\numberline {8.5}Joint expected free energy and agreement}{19}{subsection.8.5}%
+\contentsline {section}{\numberline {9}Collective Experimental Design}{19}{section.9}%
+\contentsline {subsection}{\numberline {9.1}Tasks}{19}{subsection.9.1}%
+\contentsline {subsection}{\numberline {9.2}Conditions and controls}{20}{subsection.9.2}%
+\contentsline {section}{\numberline {10}Collective Results}{20}{section.10}%
+\contentsline {subsection}{\numberline {10.1}Constitution and strategic advantage}{20}{subsection.10.1}%
+\contentsline {subsection}{\numberline {10.2}Why messaging alone is not enough}{21}{subsection.10.2}%
+\contentsline {subsection}{\numberline {10.3}Random constitution and directed transformation}{21}{subsection.10.3}%
+\contentsline {subsection}{\numberline {10.4}Time-resolved examples}{21}{subsection.10.4}%
+\contentsline {part}{III\hspace {1em}Synthesis}{25}{part.3}%
+\contentsline {section}{\numberline {11}Discussion}{25}{section.11}%
+\contentsline {subsection}{\numberline {11.1}What the model now demonstrates}{25}{subsection.11.1}%
+\contentsline {subsection}{\numberline {11.2}Why the book connection is substantive}{25}{subsection.11.2}%
+\contentsline {subsection}{\numberline {11.3}Does the pair literally become one drone?}{26}{subsection.11.3}%
+\contentsline {subsection}{\numberline {11.4}Alternative explanations and the role of the controls}{26}{subsection.11.4}%
+\contentsline {subsection}{\numberline {11.5}What remains unproven}{26}{subsection.11.5}%
+\contentsline {section}{\numberline {12}Conclusion}{27}{section.12}%
+\contentsline {part}{Technical Appendices}{27}{part*.21}%
+\contentsline {section}{\numberline {A}Path-Space Factorization and the Linear Gap}{27}{appendix.A}%
+\contentsline {section}{\numberline {B}Exact Partition Posterior and Permutation Awareness}{28}{appendix.B}%
+\contentsline {section}{\numberline {C}Algorithms}{28}{appendix.C}%
+\contentsline {subsection}{\numberline {C.1}Individual constitutive inversion}{28}{subsection.C.1}%
+\contentsline {subsection}{\numberline {C.2}Collective constitutive inversion}{28}{subsection.C.2}%
+\contentsline {section}{\numberline {D}Parameter Register}{29}{appendix.D}%
+\contentsline {section}{\numberline {E}Outcome Definitions and Statistical Discipline}{29}{appendix.E}%
+\contentsline {section}{\numberline {F}Reproducibility and Test Register}{30}{appendix.F}%

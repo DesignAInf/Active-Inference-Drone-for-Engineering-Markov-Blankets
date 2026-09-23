@@ -86,7 +86,7 @@ Inside a declared state space and action repertoire, EFE-guided structural infer
 
 The collective result supports **operational collective individuation**, not the unrestricted ontological claim that two drones literally become one organism or person. Candidate modules, action types, communication topology, and the handshake institution are engineered. The simulator is linear-Gaussian and the hardware problem remains open.
 
-## Possati's design operations
+## Design operations
 
 - **Precision crafting** → selection, gating, routing, and calibration of sensory and active modules.
 - **Curiosity sculpting** → structural perturbations selected through EFE.
